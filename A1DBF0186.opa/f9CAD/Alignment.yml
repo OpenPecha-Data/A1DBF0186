@@ -1,0 +1,31 @@
+segment_sources:
+  I6024C32C:
+    type: origin_type
+    relation: translation
+    language: en
+  I5C42C808:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  0178072371e94a6c8b506b63dff46cb4:
+    I6024C32C: df9802b5688649c7b605bbdee6d4f2b9
+    I5C42C808: 6bd6efaecb45467c8734745cdc989911
+  b252e14562b747b7a484ff21bbf372a2:
+    I6024C32C: f18d3a23992542b2b12a0621f1b800fc
+    I5C42C808: 918c3f7765c04cc0951eb91a02ae651d
+  fbaa8b2a97ba4f3a9a6cdcb8ecd9ef87:
+    I6024C32C: 150ab9fc22bc474589b7d47e210d02aa
+    I5C42C808: 10ea7a5be62d4bcb8641b1234b992bcb
+  f35c497def1e46339e16b84ed094bf98:
+    I6024C32C: 8f729de127dc41aaae74ff59224fe658
+    I5C42C808: ddbdb1e062c5469ea7323f612252fabd
+  ebc7e2c3848147309cb61e60593b9b43:
+    I6024C32C: 5fd3306962654ab284975f31368a9798
+    I5C42C808: 51b9aef16edc4d4ab7f39e99243f242b
+  c5f18dee594b4cfaacd38106c1e91b66:
+    I6024C32C: 4bdb1b76cb08440c99f1c33ab596b920
+    I5C42C808: e6bcf2b6fa334e75b8f131b212c0dcff
+  988ba01810f64472be04faa92c2618c9:
+    I6024C32C: 7394f46792e4492c9db3eb8edf6de5a7
+    I5C42C808: a2b98b0e98ca4a7797020f5dcb149653

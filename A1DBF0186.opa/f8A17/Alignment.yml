@@ -1,0 +1,58 @@
+segment_sources:
+  I6024C32C:
+    type: origin_type
+    relation: translation
+    language: en
+  I98E97869:
+    type: origin_type
+    relation: translation
+    language: de
+  I47034CBC:
+    type: origin_type
+    relation: translation
+    language: fr
+  I5C42C808:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a31dd08e2f9c4be88eac37622f9a5744:
+    I6024C32C: 6ac969ece79b4ce48f9142a0420f66d9
+    I98E97869: bf5f1ea6b3704537ac9b835ebed5800e
+    I47034CBC: 0d304f8fbc014e3d88140b60aa05ecd0
+    I5C42C808: 5652423037534663a8cb0eb6a3284d57
+  70b27fd4f2f046bb94fedd4a989202d8:
+    I6024C32C: 8361eb9a31f64da38a93391b932822e5
+    I98E97869: 65f96f3e8bbd4278bc78c97d6dea4f39
+    I47034CBC: 678d2b404032451eaf1e989bab74b549
+    I5C42C808: b34dfe9c7874427880cf56b18cd635ba
+  3187bf46e5fc45d9a892fc7d22bde33a:
+    I6024C32C: 9bbe53f5bb9b4089ba61131422a4d350
+    I98E97869: ce5dc13fe2b84cad8c55fe33e35ba260
+    I47034CBC: 37e1d9ea41134bd3a6f1b3c59814edc5
+    I5C42C808: 609f904bcf034ecb9d5e20e890034834
+  84e3e93f935b45d7ad1953cb2bfde953:
+    I6024C32C: ce7ca2cc94dc4c09ac652d106b33f759
+    I98E97869: bd56cdfe4f73473793d4f254743de9b0
+    I47034CBC: d9052785e9b34df7a97e2d3af3326b02
+    I5C42C808: f388daa3a69048cb9ad1ab897f90e86d
+  cb109cbb5de34f1e8b35b30fbe9fa805:
+    I6024C32C: 97c3667b5e054d3fae5789e785d537a8
+    I98E97869: d668cc07ddc246f58892b3a7f95eac2d
+    I47034CBC: 7e3ef72448174444bce3bf45791cd47f
+    I5C42C808: 7e5321e6dee54cb798ffb306b5c01ebb
+  cbbf650cbe68407495a7804ee69efcd4:
+    I6024C32C: 3786fe0b7eb04d4491cb85a864e5408a
+    I98E97869: 3349110b25f64760aead96ddab946ad1
+    I47034CBC: c8ef9cbef38e42b8ad30e907c04c68f4
+    I5C42C808: 438417e2a02947d7a93c8bc5d79d02f5
+  76fbeadb82ae4666ac3f3744acd1f9b7:
+    I6024C32C: fa8ed1ad132b4e57a6172d2baca3a0dd
+    I98E97869: cafb6c7a0f0149e0acd01995b5f57256
+    I47034CBC: 9a5fa3de77184078896116dc4f0fbee9
+    I5C42C808: 5a96595a095f4587afb1d1f03cb2146f
+  9365a8d8285c4d13a4c185f0f82ba5ae:
+    I6024C32C: baba8838b645433c82c358208b3e4594
+    I98E97869: 54bffbd094d64aff9aa281740ebb9a76
+    I47034CBC: 99c4f380bb6145d39f4b6511bb0a941c
+    I5C42C808: 2cd95e96b7a24a4d84f3bd57a4b675df

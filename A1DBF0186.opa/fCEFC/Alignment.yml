@@ -1,0 +1,22 @@
+segment_sources:
+  I6024C32C:
+    type: origin_type
+    relation: translation
+    language: en
+  I5C42C808:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  f799229a2c9648e88ae84112fd147e33:
+    I6024C32C: 9e4b3b0118054affa35989cc9593ed16
+    I5C42C808: b0500e4cab454c32b7b530a35c17b97d
+  04ac858dbf6a4dea964e2b7831400e4a:
+    I6024C32C: ac1bf974ee974531b973810fde98d363
+    I5C42C808: 8e196d4762ee490eabf313f2c925de41
+  38abd3becc0e4086855d7c5799fe8572:
+    I6024C32C: 8fb24442f22f46898757a45d2f3b8b7f
+    I5C42C808: 9fe0a32135c74d029e43c661c4590b33
+  fb652e995e1d4599ab7a06a2afb16369:
+    I6024C32C: 0461016044b348aa8dc3ba26f11383db
+    I5C42C808: 32a462c545fa4cb79bbffd7aab4c5796

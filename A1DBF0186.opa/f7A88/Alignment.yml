@@ -1,0 +1,42 @@
+segment_sources:
+  I6024C32C:
+    type: origin_type
+    relation: translation
+    language: en
+  I47034CBC:
+    type: origin_type
+    relation: translation
+    language: fr
+  I5C42C808:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  282fb86fb43447059e7b14487bbd213d:
+    I6024C32C: 08fb8b588d4b48d99d3556144e7cc1b8
+    I47034CBC: 671adf5d3942464d902227e3baee7355
+    I5C42C808: 49e7f0260662485facfeaceeae305794
+  e6c9be64fa154c9c8f53932ef0634a1e:
+    I6024C32C: 8a1638c87d86416ea4f80c709a24fcc4
+    I47034CBC: a4fae35654c747198be2a375c78dd72e
+    I5C42C808: 7044174247c345c5b3a15d9598a7fd3a
+  2135753258a74b9d99dfa923fa6616a8:
+    I6024C32C: dc29bcf9b2b24b58806cbfa11b41914e
+    I47034CBC: 39f81206d34a4e048c36c475fa030867
+    I5C42C808: 4e3b78af6dbc4bd9ba8cf505ee05f8a0
+  b1c0713ff46c4aa186db2f4e6aafd65f:
+    I6024C32C: de470a8edeb54cfba9271d6a02006977
+    I47034CBC: 1e15c0f4f57046eeaa4d396781d55ed5
+    I5C42C808: d99506f0e256465dbf8f4c2f5e312ac3
+  d63f662907ae4bdeb17a7bf120de7a6e:
+    I6024C32C: b7c16a8d59e14d499962c74533e52829
+    I47034CBC: 076bf30f5e71494ebb9b8177dd7d5421
+    I5C42C808: 218ac4cd009949e98699bc6b8c2dcae3
+  ff44bcff6dc24bea9daa077a3a176d89:
+    I6024C32C: bdc7edde6ed2452c99f64c1f4b25f251
+    I47034CBC: fe90aead087f433bb8890c11dcad5ae2
+    I5C42C808: 2b27a8eac7114243a9eef43577c49b98
+  97f98f2ea5434069871d4c1071aa6670:
+    I6024C32C: ccbc5ac855f14a8cb41130f528b013e6
+    I47034CBC: 67aad429a9cf450e80063d659e3b2b5d
+    I5C42C808: 7f6bb02c726f4dc3b6cca397e8add081
